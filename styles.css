@@ -1,2 +1,12 @@
-
+.holder{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.A{
+	height:100px;
+	width:100px;
+	background-color:red;
+	margin:10px;
+}
 /* Your CSS Code here. */
